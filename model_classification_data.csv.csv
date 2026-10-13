@@ -1,0 +1,4 @@
+Algorithm,Accuracy (%)
+KNN,100.0
+Decision Tree,93.33
+SVM,100.0
